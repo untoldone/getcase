@@ -9,5 +9,5 @@ get '/:case_id' do
 end
 
 get '/' do
-  case_redirect params[:s]
+  case_redirect params[:search]
 end
