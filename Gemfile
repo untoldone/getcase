@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.4'
+ruby '3.1.2'
 
 gem 'sinatra'
-gem 'pg'
-gem 'unicorn'
+gem 'puma'
