@@ -1,4 +1,4 @@
-# fly.toml file generated for getcase on 2022-11-01T12:49:52-07:00
+# fly.toml file generated for getcase on 2022-11-01T12:54:28-07:00
 
 app = "getcase"
 kill_signal = "SIGINT"
